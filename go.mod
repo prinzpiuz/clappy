@@ -10,6 +10,7 @@ require (
 require (
 	github.com/charmbracelet/x/ansi v0.1.4 // indirect
 	github.com/felixge/httpsnoop v1.0.3 // indirect
+	github.com/rs/cors v1.11.1
 )
 
 require (
